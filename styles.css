@@ -1,0 +1,69 @@
+body {
+  font-family: 'open sans', sans-serif; 
+  font-weight: bold 700;
+  text-align: center;
+  color: #404041;
+}
+header {
+  background-color: #404041;
+  height: 90px;
+  line-height: 90px;
+  margin-bottom: 50px;
+}
+button {
+  margin: 30px 30px;
+  background-color: #929497;
+  border-radius: 28px;
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  color: #fff;
+}
+button:hover {
+  background-color: #eb008b;
+  color: #fff;
+}
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+#number {
+  width: 200px;
+  line-height: 20px;
+  font-size: 20px;
+}
+#reset {
+  width: 350px;
+}
+.block {
+  display: block; 
+  margin: 0 auto;
+}
+.err {
+  color: #79999a;
+  font-size: 40px
+}
+.grey {
+  color: #e6e7e8;
+  font-weight: 300;
+}
+.padding {
+  padding-top: 20px;
+}
+.pink {
+  color: #ed458b;
+}
+.your-guess {
+  color: #79999a;
+  font-size: 40px;
+}
+h1 {
+  font-size: 60px;
+}
+h2 {
+  color: #404041;
+}
+h3 {
+  font-size: 100px;
+  color: #eb008b; 
+}
